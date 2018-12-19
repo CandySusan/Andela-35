@@ -24,7 +24,7 @@
   ```pip install requirements.txt```
 
 # Deployment
-
+the app is deployed on [https://masete.herokuapp.com/]
 
 ### AUTHOR 
 * [Candy Susan](https://github.com/CandySusan)
