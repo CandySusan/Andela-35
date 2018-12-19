@@ -19,3 +19,10 @@ script:
   
 after_success:
   - coveralls
+
+
+# safelist
+branches:
+  only:
+  - develop
+ 
