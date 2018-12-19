@@ -1,5 +1,5 @@
 # Andela35 TRAINING REPO
-[![Build Status](https://travis-ci.org/CandySusan/Andela35.svg?branch=develop)](https://travis-ci.org/CandySusan/Andela35) [![Coverage Status](https://coveralls.io/repos/github/CandySusan/Andela35/badge.svg?branch=master)](https://coveralls.io/github/CandySusan/Andela35?branch=develop) [![Maintainability](https://api.codeclimate.com/v1/badges/e1553693ca66a3551c2f/maintainability)](https://codeclimate.com/github/CandySusan/Andela35/maintainability)
+[![Build Status](https://travis-ci.org/CandySusan/Andela-35.svg?branch=develop)](https://travis-ci.org/CandySusan/Andela-35) [![Coverage Status](https://coveralls.io/repos/github/CandySusan/Andela-35/badge.svg?branch=master)](https://coveralls.io/github/CandySusan/Andela-35?branch=develop) [![Maintainability](https://api.codeclimate.com/v1/badges/9cf3995f704fd27f5e11/maintainability)](https://codeclimate.com/github/CandySusan/Andela-35/maintainability)
 
 
 
@@ -27,4 +27,4 @@
 
 
 ### AUTHOR 
-* [Kengo Wada](https://github.com/KengoWada)
+* [Candy Susan](https://github.com/CandySusan)
